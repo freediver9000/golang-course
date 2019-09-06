@@ -1,2 +1,2 @@
 # golang-course
-Todd McLeod's course
+Todd McLeod's course.
